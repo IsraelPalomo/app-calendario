@@ -1,7 +1,8 @@
 # app-calendario
 
 
-<img src="..\Users\israe\OneDrive\Imágenes\Capturas de pantalla alt="My cool logo"/>
+![github-small]("C:\Users\israe\OneDrive\Imágenes\Capturas de pantalla\![Uploading image.png…]()
+ )
 ## Project setup
 ```
 npm install
